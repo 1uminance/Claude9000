@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+    "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>FilmTools</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.filmtools.FilmTools</string>
+    <key>CFBundleVersion</key>
+    <string>@PROJECT_VERSION@</string>
+    <key>CFBundleExecutable</key>
+    <string>FilmTools.ofx</string>
+    <key>CFBundlePackageType</key>
+    <string>BNDL</string>
+</dict>
+</plist>

@@ -1,0 +1,3 @@
+[submodule "baselight_tool_01/vendor/openfx"]
+	path = baselight_tool_01/vendor/openfx
+	url = https://github.com/ofxa/openfx.git
